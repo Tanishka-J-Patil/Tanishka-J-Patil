@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanishka</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=200&color=38BDF8&center=true&vCenter=true&width=900&lines=Final+Year+B.Tech+CE+Student;Full-Stack+Developer;Machine+Learning+%2B+Deep+Learning;Building+Real-World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=200&color=38BDF8&center=true&vCenter=true&width=900&lines=Final+Year+B.Tech+Computer Science and Engineering+Student;Full-Stack+Developer;Machine+Learning+%2B+Deep+Learning;Building+Real-World+Projects" />
 </p>
 
 <h2 align="center">🚀 About Me</h2>
