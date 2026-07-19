@@ -5,7 +5,7 @@
 
 <h2 align="center">🚀 About Me</h2>
 <p align="center">
-🎓 Final-Year B.Tech Computer Engineering Student, MIT-WPU Pune <br>
+🎓 Final-Year B.Tech Computer Science and Engineering Student, MIT-WPU Pune <br>
 💻 Building Full Stack & ML/AI Projects <br>
 📍 Maharashtra, India
 </p>
