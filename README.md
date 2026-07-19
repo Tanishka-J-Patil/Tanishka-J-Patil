@@ -29,4 +29,4 @@ C++ • Java • JavaScript • React • Node.js • Express • FastAPI • Mo
 </p>
 
 ## 🐍 Contribution Snake
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/Tanishka-J-Patil/Tanishka-J-Patil/blob/output/github-contribution-grid-snake-dark.svg)
