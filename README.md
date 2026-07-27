@@ -12,7 +12,43 @@
 
 <h2 align="center">🛠️ Languages and Tools</h2>
 <p align="center">
-C++ • Java • JavaScript • React • Node.js • Express • FastAPI • MongoDB • TensorFlow • Python • Git 
+<h2 align="center">🛠️ Languages and Tools</h2>
+
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=cpp" />
+  </a>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=java" />
+  </a>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=javascript" />
+  </a>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+  </a>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=express" />
+  </a>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=fastapi" />
+  </a>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=mongodb" />
+  </a>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=tensorflow" />
+  </a>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+</p>
 </p>
 
 ## 🌐 Let's Connect !
