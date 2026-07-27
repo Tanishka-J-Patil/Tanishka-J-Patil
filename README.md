@@ -56,7 +56,7 @@
 <a href="mailto:tanishkapatil092005@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
-<a href="https://www.instagram.com/YOUR_INSTAGRAM/">
+<a href="https://www.instagram.com/tanishka_09_5/">
 <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 </p>
