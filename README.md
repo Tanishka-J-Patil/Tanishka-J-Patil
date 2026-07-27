@@ -11,8 +11,6 @@
 </p>
 
 <h2 align="center">🛠️ Languages and Tools</h2>
-<p align="center">
-<h2 align="center">🛠️ Languages and Tools</h2>
 
 <p align="center">
   <a href="#">
@@ -48,7 +46,6 @@
   <a href="#">
     <img src="https://skillicons.dev/icons?i=git" />
   </a>
-</p>
 </p>
 
 ## 🌐 Let's Connect !
